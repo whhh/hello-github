@@ -1,2 +1,2 @@
 # hello-github
-vi
+print 'hello word'
